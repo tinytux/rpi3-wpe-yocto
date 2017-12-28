@@ -1,0 +1,16 @@
+[submodule "poky"]
+	path = poky
+	url = http://git.yoctoproject.org/git/poky
+	branch = morty
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = http://git.yoctoproject.org/git/meta-raspberrypi
+	branch = morty
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = http://git.openembedded.org/meta-openembedded
+	branch = morty
+[submodule "meta-wpe"]
+	path = meta-wpe
+	url = https://github.com/WebPlatformForEmbedded/meta-wpe
+	branch = morty
