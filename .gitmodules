@@ -14,3 +14,6 @@
 	path = meta-wpe
 	url = https://github.com/WebPlatformForEmbedded/meta-wpe
 	branch = morty
+[submodule "meta-webkit"]
+	path = meta-webkit
+	url = https://github.com/Igalia/meta-webkit
